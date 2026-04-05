@@ -12,8 +12,15 @@
 - [ ] Hashing and digital signatures
 - [ ] Non-repudiation concepts
 
-## My Notes
-*(Add your notes here as you study each topic)*
+## 🎯 Domain Overview
+This domain focuses on the foundational principles of cybersecurity, including the implementation of security controls, the application of the CIA Triad, and the technical logic of cryptographic solutions. Understanding these concepts is essential for assessing an enterprise environment and recommending appropriate security measures.
+
+## 📝 Objective Progress
+- [x] 1.1 Security controls and control categories
+- [x] 1.2 Fundamental security concepts
+- [x] 1.3 Change management processes
+- [x] 1.4 Cryptographic solutions
+- [ ] 1.5 Physical security (Starting Tomorrow)
 
 ---
 
