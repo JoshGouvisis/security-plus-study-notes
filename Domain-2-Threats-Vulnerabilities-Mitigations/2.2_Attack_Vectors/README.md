@@ -14,3 +14,12 @@ Attackers use specific pathways (vectors) to reach their targets. The "Attack Su
 * **External:** Publicly facing assets like websites, DNS, and email servers.
 * **Internal:** Local workstations, internal databases, and IoT devices.
 * **Human:** The "weakest link" targeted through psychological manipulation.
+
+## 🧠 Social Engineering Taxonomy (The Human Vector)
+* **Phishing:** A broad, non-targeted email sent to many users.
+* **Spear Phishing:** A targeted attack against a specific individual or group.
+* **Whaling:** Targeting high-level executives (CEO/CFO).
+* **Vishing:** Voice-based phishing (phone calls).
+* **Smishing:** SMS/Text-based phishing.
+* **Business Email Compromise (BEC):** Spoofing an executive's email to authorize fraudulent financial transactions.
+* **Typosquatting:** Registering domains that are slight misspellings of legitimate sites (e.g., `gogle.com`).
