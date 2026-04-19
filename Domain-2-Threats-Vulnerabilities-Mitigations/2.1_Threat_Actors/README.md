@@ -1,17 +1,31 @@
-
-# 2.1 Common Threat Actors and Motivations
-
-Understanding the "Who" and the "Why" behind an attack helps in assessing risk and prioritizing defenses.
-
-## Threat Actor Types
-* **Nation-State:** Highly sophisticated, government-sponsored, and focused on long-term persistence (APT) for espionage or strategic advantage.
-* **Unskilled Attacker:** Uses pre-made tools and scripts (Script Kiddies); often motivated by notoriety rather than financial gain.
-* **Hacktivist:** Motivated by social or political causes; frequently uses website defacement or DoS attacks.
-* **Insider Threat:** Current or former employees with legitimate access; can be malicious (theft/sabotage) or unintentional (accidental data leak).
-* **Organized Crime:** Highly funded and sophisticated groups focused primarily on financial gain through ransomware or data theft.
-* **Shadow IT:** Unauthorized hardware or software used within an organization without IT approval; creates unmanaged security gaps.
-
-## Attributes and Motivations
-* **Internal vs. External:** Assessing whether the threat originates from within the perimeter or outside.
-* **Resources/Funding:** Ranges from individual hobbyists to state-sponsored organizations with unlimited budgets.
-* **Intent:** Can range from financial gain and intellectual property theft to simple disruption or political statements.
+## 2.1 Threat Actors and Motivations
+ 
+A threat actor is any entity responsible for a security event or impact against another system or organization.
+ 
+### Attributes of Threat Actors
+ 
+- Internal or external to the organization
+- Level of sophistication ranges from script-runner to nation-state operator
+- Resources and funding determine the scale and persistence of attacks
+### Threat Actor Types
+ 
+| Actor Type | Attributes, Motivations, and Capabilities |
+|---|---|
+| Nation-State | External. APT (Advanced Persistent Threat) methodology. Highest sophistication. Targets military, utilities, and financial systems. Motivated by espionage, disruption, and war. |
+| Unskilled Attacker | Internal or external. Runs pre-written scripts without understanding them. Limited resources and funding. Motivated by disruption, data exfiltration, or philosophical goals. |
+| Hacktivist | Mostly external. Motivated by philosophy, revenge, or disruption. Specific attacks: DoS, site defacement, document release. Limited funding, some crowdfund. |
+| Insider Threat | Internal. Uses institutional knowledge to target vulnerable systems. Motivated by revenge or financial gain. Has legitimate access, making detection harder. |
+| Organized Crime | Mostly external. Motivated entirely by money. Sophisticated, well-funded operations with division of labor: hacker, exploit manager, data seller, customer service. |
+| Shadow IT | Internal. Employees build unauthorized infrastructure using cloud resources and company budget. May lack IT training. Creates unmanaged attack surface without malicious intent. |
+ 
+### Motivations
+ 
+- Data exfiltration: steal and monetize or leverage sensitive data
+- Espionage: nation-state intelligence gathering
+- Service disruption: DoS/DDoS, competitor advantage, or smokescreen for another attack
+- Blackmail: threaten to expose compromised data
+- Financial gain: ransomware, fraud, organized crime
+- Philosophical or political beliefs: hacktivists, nation-states
+- Revenge: disgruntled insiders
+- Disruption and chaos: unskilled attackers, some hacktivists
+- War: nation-state actors targeting critical infrastructure
