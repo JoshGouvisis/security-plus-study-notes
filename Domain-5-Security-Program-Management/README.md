@@ -1,6 +1,6 @@
 # Domain 5 — Security Program Management & Oversight (20%)
 
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
 
 ## 🎯 Domain Overview
 This domain focuses on the governance, risk management, and compliance (GRC) aspects of cybersecurity. It covers how organizations align security with business goals, manage third-party risks, and adhere to legal and regulatory frameworks.
