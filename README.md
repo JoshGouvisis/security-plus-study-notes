@@ -34,5 +34,5 @@ Each domain has its own folder containing individual `.md` files per topic.
 
 ## 👤 Author
 
-**Joshua Gouvisis** — [LinkedIn](https://linkedin.com/in/joshgouvisis) |
+**Joshua Gouvisis** — [LinkedIn](https://www.linkedin.com/in/joshgouvisis/) |
 [GitHub](https://github.com/JoshGouvisis)
